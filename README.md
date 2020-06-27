@@ -1,7 +1,7 @@
 # Rust 4Noobs
 ![Rust Lang](https://www.rust-lang.org/static/images/rust-social-wide.jpg)
 
-O objetivo deste 4Noobs é tornar a Rust mais acessivel para iniciantes e leigos no mundo da programação para que possam criar suas propias soluções.
+O objetivo deste 4Noobs é tornar Rust mais acessivel para os iniciantes e leigos no mundo da programação para que possam criar suas propias soluções.
 
 ## Primeiros Passos
 1. [Introdução](/contents/1-PrimeirosPassos/0_introducao.md)
