@@ -1,6 +1,6 @@
 # 1.1 Instalação do Rust
 
-## Rustup
+## Instalando
 ### Linux e macOS e outros Unix-like OS.
 Para instalar no Linux ou macOS você deve rodar este comando no terminal:
 
@@ -45,3 +45,6 @@ Você deve ver o número da versão, confirmar o hash e confirmar a data da vers
 Junto com a instalação do Rust vem uma cópia da documentação localmente, para que você possa a consultar offline. Execute o comando `rustup doc` para abrir a documentação local no seu navegador.
 
 Sempre que um tipo ou função for fornecida pela biblioteca padrão e você não tiver certeza do que faz ou como usá-lo, use a documentação da interface de programação de aplicativos (API) para descobrir!
+
+## Configurando seu editor de texto
+Para programar você precisa de um bom editor de texto, em [editores](/contents/Extras/editores.md) você irá ter algumas sugestões e aprenderá a configurar seu editor de texto favorito para programar em Rust
