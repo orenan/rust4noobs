@@ -6,7 +6,9 @@ Os programas Rust mais simples, como o que escrevemos até agora, não têm depe
 
 Como a grande maioria dos projetos da Rust usa Cargo, este tutorial pressupõe que você também esteja usando o Cargo. O Cargo vem instalado com o Rust se você usou os instaladores oficiais. Verifique se o Cargo está instalado inserindo o seguinte em seu terminal:
 
-```cargo --version```
+```sh
+cargo --version
+```
 
 Se você vir um número de versão, ele está instalado! Se você vir um erro, como `command not found`, consulte a documentação do seu método de instalação para determinar como instalar o Cargo separadamente.
 
@@ -144,5 +146,5 @@ Você já está começando bem na sua jornada Rust! Neste capítulo, você apren
 - Instalar a versão estável mais recente do Rust usando `rustup`
 - Atualizar para uma versão mais recente do Rust
 - Abrir documentação instalada localmente
-- Escrever e executar um programa "Olá, mundo!" usando `rustc` diretamente
-- Criar e exec utar um novo projeto usando as convenções de Cargo
+- Escrever e executar um programa `"Olá, mundo!"` usando `rustc` diretamente
+- Criar e executar um novo projeto usando Cargo
